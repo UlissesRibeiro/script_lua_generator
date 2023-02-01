@@ -7,3 +7,5 @@ Recommendations:<br>
 
 <li>In the field "Plugin name" capital letters.</li>
 <li>In the field "Path" enter the correct path where your application is, memory card, hdd, mass storage.</li>
+
+<a align="center" href="https://luagenerator.000webhostapp.com/">Acesso a aplicação</a>
