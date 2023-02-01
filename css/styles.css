@@ -1,0 +1,18 @@
+.container{
+    margin-top: 50px;
+    width: 50%;
+}
+
+#lua-img img{
+    width: 30%;
+}
+
+@media screen and (max-width: 680px) and (min-width: 300px){
+    .container{
+        margin-top: 50px;
+        width: 100%;
+    }
+    h2{
+        text-align: center;
+    }
+  }

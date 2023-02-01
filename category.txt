@@ -1,0 +1,4 @@
+3 = for PS2 Games
+4 = for Retro
+5 = for Multimedia
+6 = for General Apps
